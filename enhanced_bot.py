@@ -136,7 +136,7 @@ def handle_bgmi(message):
                     f"👑 **Commander**: `{username}`\n"
                     f"🗺️ Target IP:  `{target}`\n"
                     f"🔌 Target Port: `{port}`\n"
-                    f"⏳ Duration: `{time} seconds`\n"
+                    f"⏳ Duration: `{time} seconds`\n",
                     parse_mode='Markdown'
                 )
 
